@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846671924365",
+    "firebase_url": "https://calorie-calculator-app.firebaseio.com",
+    "project_id": "calorie-calculator-app",
+    "storage_bucket": "calorie-calculator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846671924365:android:5c3d57e4797e17f36366c4",
+        "android_client_info": {
+          "package_name": "com.example.caloriecounterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846671924365-q397r7ts2kre3t59jmfl37a6bkrukakn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9orE1k__-rML7uDwnY47E_vyM11BUk28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846671924365-q397r7ts2kre3t59jmfl37a6bkrukakn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
